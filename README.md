@@ -10,6 +10,6 @@ Beispieltabelle:
 
 | Aufgabe | Titel | Punkte |
 |:------:|:----:| :--------:|
-| 1 | Registrieren bei GitHub | 3 |
-| 2 | Markdown | 4 |
-| 3 | Kollaboration in GitHub | 3 |
+| 1 | "Registrieren bei GitHub" | 3 |
+| 2 | "Markdown" | 4 |
+| 3 | "Kollaboration in GitHub" | 3 |

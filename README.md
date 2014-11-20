@@ -1,6 +1,6 @@
 ### Übung 7 GitHub
 
-Aufgabe 2 besteht darin, eine Datei mit folgenden Formatierungen zu erstellen
+Aufgabe 2 besteht darin, eine Datei mit folgenden Formatierungen zu erstellen:
 * Titel Überschrift (siehe Titel oben)
 * Liste
 * Tabelle
